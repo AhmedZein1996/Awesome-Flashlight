@@ -1,0 +1,1 @@
+enum FlashLightState { on, off }
